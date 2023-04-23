@@ -1,4 +1,4 @@
-package org.example.oldestPerson;
+package org.example.underAge;
 
 public class Person {
     public String name;
